@@ -1,4 +1,4 @@
-1/ AHP — Aide à la Décision Multi-Critères
+1/ AHP 
 
 Application web basée sur l'application du processus de hiérarchie Analytiquev(Analytic Hierarchy Process) de Thomas L. Saaty.  
 Elle permet de comparer plusieurs alternatives selon de multiples critères et de recommander la meilleure option de façon rigoureuse.
