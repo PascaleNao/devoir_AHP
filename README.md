@@ -47,10 +47,9 @@ L'interface sera disponible sur `http://localhost:5174`
 
 
 5/ Déploiement
-L'application est déployée sur Vercel:
 
-Frontend React/Vite servi statiquement par Vercel
-Backend FastAPI exécuté en serverless function Python sous /api
 
+- Frontend : déployé sur Vercel : https://ahpapp.vercel.app
+- Backend : déployé sur Render : https://devoir-ahp.onrender.com
 
 Lien : https://ahpapp.vercel.app/
