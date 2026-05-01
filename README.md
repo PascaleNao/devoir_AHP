@@ -1,6 +1,6 @@
 1/ Presentation de AHP app
 
-Application web basée sur l'application du processus de hiérarchie Analytiquev(Analytic Hierarchy Process) de Thomas L. Saaty.  
+Application web basée sur l'application du processus de hiérarchie Analytique(Analytic Hierarchy Process) de Thomas L. Saaty.  
 Elle permet de comparer plusieurs alternatives selon de multiples critères et de recommander la meilleure option de façon rigoureuse.
 
 
