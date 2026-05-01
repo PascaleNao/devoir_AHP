@@ -45,3 +45,9 @@ npm run dev
 
 L'interface sera disponible sur `http://localhost:5174`
 
+
+5/ Déploiement
+L'application est déployée sur Vercel:
+
+Frontend React/Vite servi statiquement par Vercel
+Backend FastAPI exécuté en serverless function Python sous /api
