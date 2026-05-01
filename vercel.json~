@@ -1,0 +1,3 @@
+{"version":2,"builds":[{"src":"frontend/vite-project/package.json","use":"@vercel/static-build","config":{"distDir":"dist"}},{"src":"api/index.py","use":"@vercel/python"}],"routes":[{"src":"/api/(.*)","dest":"api/index.py"},{"src":"/(.*)","dest":"frontend/vite-project/dist/"}]}
+
+{"version":2,"builds":[{"src":"frontend/vite-projet/packagejson","use":"@vercel/static-build","config":{"distDir":"dist"}},{"src":"api/index.py","use":"@vercel/python}],"routes":[{"src":"/api/(.*)","dest":"api/index.py"},{"src":"/(.*)","dest":"frontend/vite-projet/dist/"}"]}
