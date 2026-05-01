@@ -78,7 +78,9 @@ export default function App() {
       </div>
 
       <header className="app-topbar">
-        <div className="logo-badge">⚖️</div>
+        <div className="logo-badge">
+  <img src="/logo.jpeg" alt="AHP logo" style={{width: "48px", height: "48px", borderRadius: "50%", objectFit: "cover"}} />
+</div>
         <div className="topbar-titles">
           <h1 style={{
             fontFamily: "Georgia, 'Times New Roman', serif",

@@ -69,15 +69,8 @@ html, body, #root {
 }
 
 .logo-badge {
-  background: linear-gradient(145deg, var(--blue), var(--blue-deep));
-  color: #fff;
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 17px;
-  letter-spacing: 4px;
-  padding: 10px 22px;
-  border-radius: 50px;
-  box-shadow: var(--neu-btn);
-  user-select: none;
+  display: flex;
+  align-items: center;
 }
 
 .topbar-titles { flex: 1; }
